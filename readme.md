@@ -1,6 +1,6 @@
 # Learning Stanford CS336: Language Modeling from Scratch
 
-This repository documents my work for [Stanford CS336: \*Language Modeling from Scratch(Spring 2025)](https://stanford-cs336.github.io/spring2025/).
+This repository documents my work for [Stanford CS336: Language Modeling from Scratch(Spring 2025)](https://stanford-cs336.github.io/spring2025/).
 Here you will find:
 
 - All assignment solutions, code and experiments
